@@ -15,3 +15,6 @@ The simple code to make `Circuler progress bar` using HTML & CSS.
     <a href="Outputs/progress-bar.png"><img src="https://user-images.githubusercontent.com/85709371/156918259-f34a8474-cfb6-4ebd-ab82-3c08e3dd443f.png" alt="progress-bar"></a>
   </p>
 </details>
+
+## *Author Name*
+[Vikrant](https://github.com/vikrant-v28)
