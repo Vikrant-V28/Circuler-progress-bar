@@ -10,7 +10,7 @@ The simple code to make `Circuler progress bar` using HTML & CSS.
 - CSS
 
 ### Output Screenshot
-<details><summary><b>Output 1</b></summary>
+<details><summary><b>Output</b></summary>
   <p align="center">
     <a href="Outputs/progress-bar.png"><img src="https://user-images.githubusercontent.com/85709371/156918259-f34a8474-cfb6-4ebd-ab82-3c08e3dd443f.png" alt="progress-bar"></a>
   </p>
