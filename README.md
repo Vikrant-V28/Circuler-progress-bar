@@ -17,4 +17,4 @@ The simple code to make `Circuler progress bar` using HTML & CSS.
 </details>
 
 ## *Author Name*
-[Vikrant](https://github.com/vikrant-v28)
+[Vikrant](https://github.com/thevkrant)
